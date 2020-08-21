@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Full-stack web dev at Lighthouse Labs in YVR 
+🔭 I’m currently working on learning Ruby on Rails 
+📫 How to reach me: https://www.linkedin.com/hannaohandrews
+
 <!--
 **hannaohandrews/hannaohandrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
