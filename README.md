@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Full-stack web dev at Lighthouse Labs in YVR 
+🌱 I’m currently learning full-stack web dev at Lighthouse Labs in YVR 
 🔭 I’m currently working on learning Ruby on Rails 
 📫 How to reach me: https://www.linkedin.com/in/hannaohandrews/
 
