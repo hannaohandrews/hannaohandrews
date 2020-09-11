@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning full-stack web dev at Lighthouse Labs in YVR 
-🔭 I’m currently working on learning Ruby on Rails 
+🌱 Graduate from full-stack web dev bootcamp at Lighthouse Labs
+🔭 Checkout out my final project! BC PARKS 2.0 
 📫 How to reach me: https://www.linkedin.com/in/hannaohandrews/
 
 <!--
