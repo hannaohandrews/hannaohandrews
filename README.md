@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-🌱 Full-stack Web Dev 
-🔭 Checkout out my final project! BC PARKS 2.0 
-📫 How to reach me: https://www.linkedin.com/in/hannaohandrews/
+- 🌱 Full-stack Web Dev 
+- 📫 How to reach me: https://www.linkedin.com/in/hannaohandrews/
 
 <!--
 **hannaohandrews/hannaohandrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
