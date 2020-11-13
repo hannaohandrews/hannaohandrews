@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 Graduated from full-stack web dev bootcamp at Lighthouse Labs Sept 2020
+🌱 Full-stack Web Dev 
 🔭 Checkout out my final project! BC PARKS 2.0 
 📫 How to reach me: https://www.linkedin.com/in/hannaohandrews/
 
