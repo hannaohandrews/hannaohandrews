@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🌱 Full-stack Web Dev 
+- 🌱 Full-stack Web Dev at BC Children's Hospital Digital Lab 
 - 📫 How to reach me: https://www.linkedin.com/in/hannaohandrews/
+- 🌱 I’m currently learning Framer! 
+- 😄 Pronouns: She/Her/Hers
 
 <!--
 **hannaohandrews/hannaohandrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
