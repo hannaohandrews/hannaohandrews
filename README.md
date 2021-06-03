@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 Full-stack Web Dev Intern at BC Children's Hospital Digital Lab 
+- 🌱 Junior Software Developer @Clio  
+- 💬 I’m currently learning Ruby & Angular
 - 📫 How to reach me: https://www.linkedin.com/in/hannaohandrews/
 - 😄 Pronouns: She/Her/Hers
 
