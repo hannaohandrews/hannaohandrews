@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Junior Software Developer @Clio  
-- 💬 I’m currently learning Ruby on Rails & AngularJS & TS
+- 💬 React, TS, Node.js , RoR 
 - 📫 How to reach me: https://www.linkedin.com/in/hannaohandrews/
 - 😄 Pronouns: She/Her/Hers
 
